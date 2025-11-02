@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "id": "AAAA1111",
+      "name": "Rajan",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfb8RTcQRshdvbEdIuHdTnzWId1hi72IZtQ&s",
+      "mobile": "9876543210",
+      "email": "rajan99@gmail.com",
+      "title": "Software Engineer",
+      "company": "HCL Technologies",
+      "group": "1"
+    },
+    {
+      "id": "BBBB2222",
+      "name": "Sujit",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxz7qJ9pU6Xj2EJKaRDVz-9Bd0xh2LnMklGw&s",
+      "mobile": "9090190901",
+      "email": "sujit18@gmail.com",
+      "title": "Sales Manager",
+      "company": "Indigo Paints",
+      "group": "2"
+    },
+    {
+      "id": "CCCC3333",
+      "name": "Suresh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgF2suM5kFwk9AdFjesEr8EP1qcyUvah8G7w&s",
+      "mobile": "9988776655",
+      "email": "suresh1971@gmail.com",
+      "title": "HR Head",
+      "company": "Taj Hotels",
+      "group": "2"
+    },
+    {
+      "id": "DDDD4444",
+      "name": "Mohit",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSA1zygA3rubv-VK0DrVcQ02Po79kJhXo_A&s",
+      "mobile": "9876556789",
+      "email": "jazzmohit9@yahoo.com",
+      "title": "Associate Director",
+      "company": "PlusTech",
+      "group": "3"
+    },
+    {
+      "id": "a5ce",
+      "name": "Sujan",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqoKZDrU9zYkeg_0jnlSL5Bo7oD3_NyAiCCg&s",
+      "mobile": "9911882277",
+      "email": "sujan00@yahoo.co.in",
+      "company": "YouTube",
+      "title": "YouTuber",
+      "group": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friend"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Service"
+    }
+  ]
+}
